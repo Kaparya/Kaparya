@@ -1,4 +1,4 @@
-# Hi there! I’m Kaparya :hugs:
+# Hi there! I’m Kaparya ⚡
 
 Right now I'm studying in ✨Higher School of Ecnomics✨ in Nizhny Novgorod on the second course of Software Engeneering)<br/>
 In the meantime, I'm learning C++ 🖤 In fact, I've been coding on it for like 2 or 3 years, so I have some experince..)
